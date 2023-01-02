@@ -1,0 +1,22 @@
+.badge{
+  background-color:tomato;
+  width: 23px;
+  height: 23px;
+  border-radius: 50%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color:white;
+  font-weight: 600;
+}
+.badge3{
+  border: 1px solid tomato;
+  width: 13px;
+  height: 13px;
+  border-radius: 50%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color:tomato;
+  font-weight: 600;
+}
